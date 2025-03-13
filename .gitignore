@@ -5,11 +5,13 @@
 /public/storage
 /storage/*.key
 /storage/logs
+/_database
 .env
 .env.example
 .env.backup
 .env.production
 .phpunit.result.cache
+*.sql
 Homestead.json
 Homestead.yaml
 auth.json
